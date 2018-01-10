@@ -1,5 +1,5 @@
 {
-  "name": "x2js",
+  "name": "experium-x2js",
   "version": "1.2.0",
   "main": "xml2json.min.js",
   "description": "XML <=> JSON mapping/converting library",
